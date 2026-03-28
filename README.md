@@ -1,6 +1,6 @@
 # Data Structure Assignment
 
-Name: C>Manoj Reddy
+Name: C.Manoj Reddy
 Roll Number: 68
 PRN Number: 250200076
 Course: Introduction to Data Structure  
